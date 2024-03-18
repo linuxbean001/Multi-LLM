@@ -1,0 +1,12 @@
+.reshours {
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: -0.05000000074505806px;
+  text-align: left;
+  color: #b9b9bc;
+}
+.chatAIName {
+  line-height: 40px !important;
+}

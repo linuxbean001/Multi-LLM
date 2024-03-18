@@ -1,0 +1,54 @@
+.newChatBtn {
+  background: #5e5ce6;
+  width: 256px;
+  height: 36px;
+}
+.preChatDataInner {
+  width: 256px;
+  height: 36px;
+}
+.preDate {
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #b9b9bc;
+}
+.suggMsg {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.suggestMsg-0 {
+  background: #c3403e;
+}
+.suggestMsg-1 {
+  background: #3b3e52;
+}
+.suggestMsg-2 {
+  background: #773658;
+}
+.fileImg {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  top: 3px;
+  left: 10px;
+}
+.submitBtn {
+  top: 12px;
+}
+.searchBar {
+  background: #0c0c0d !important;
+  border-radius: 8px;
+}
+.searchBar:focus-visible {
+  border: 1px solid;
+  outline: none;
+  border-color: #5d5be3;
+}

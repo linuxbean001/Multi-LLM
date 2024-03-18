@@ -1,0 +1,65 @@
+.loginHeading h1 {
+  /* font-family: Inter; */
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 60px;
+  letter-spacing: 0em;
+  text-align: left;
+  width: 560px;
+}
+.bottomContent h2 {
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.bottomInner {
+  width: 330px;
+}
+
+.signIn_btn{
+  background-color: var(--violetColor);
+}
+
+.bottomContent {
+  position: absolute;
+  bottom: 50px;
+}
+.imgIcon {
+  margin-top: 4px;
+}
+
+/* /////// */
+
+.bottmContents h2{
+  /* font-family: Inter; */
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.topImg
+{
+  background-image: url('../../assets/images/vector-top.png');
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.bottomImg
+{
+  background-image: url('../../assets/images/vector-bottom.png');
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}

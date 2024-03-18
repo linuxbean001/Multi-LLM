@@ -1,0 +1,39 @@
+.planBoxMain {
+  background-image: url("../../assets/images/vector-top.png");
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: 40%;
+  position: relative;
+}
+
+.bottomImgs {
+  background-image: url("../../assets/images/vector-bottom.png");
+  /* background-position: center center; */
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position-x: right;
+  background-position-y: bottom;
+  /* position: absolute; */
+  z-index: 9999;
+  /* border: 1px solid red; */
+  z-index: 9999;
+  top: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+.dollar {
+  font-weight: 600;
+}
+
+.plan_list {
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.getStarted {
+  background-color: var(--violetColor);
+}
+.most_popular_txt {
+  background-color: var(--violetColor);
+}

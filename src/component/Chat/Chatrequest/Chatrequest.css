@@ -1,0 +1,17 @@
+.chatUserName {
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 50px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.chatUserQuery {
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: -0.05000000074505806px;
+  text-align: left;
+  color: #f5f5f7;
+}
